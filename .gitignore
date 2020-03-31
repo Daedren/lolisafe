@@ -40,7 +40,6 @@ package-lock.json
 /.vscode
 
 # Configuration file
-/config.js
 
 # Database
 /database/db
