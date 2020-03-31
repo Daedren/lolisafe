@@ -1,4 +1,4 @@
-FROM node:9
+FROM node:10
 
 LABEL name "lolisafe"
 LABEL version "3.0.0"
